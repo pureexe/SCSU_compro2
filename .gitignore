@@ -1,1 +1,4 @@
 **/*.class
+/week3/HelloNetbean/nbproject/private/
+/week3/HelloNetbean/build/
+/week3/HelloNetbean/dist/
